@@ -1,7 +1,5 @@
 # ReconnaissanceFaciale
-
 **Système de reconnaissance faciale prenant en compte le port du masque par méthode des eigenfaces.**
-
 **Voir rapport et présentation pour plus de détails.**
 
 
